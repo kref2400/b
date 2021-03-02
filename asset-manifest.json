@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kref2400/b.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kref2400/b.git/static/js/main.d1a3ebfb.chunk.js",
+    "main.js.map": "/kref2400/b.git/static/js/main.d1a3ebfb.chunk.js.map",
+    "runtime-main.js": "/kref2400/b.git/static/js/runtime-main.40d4a2f9.js",
+    "runtime-main.js.map": "/kref2400/b.git/static/js/runtime-main.40d4a2f9.js.map",
+    "static/js/2.24110b5b.chunk.js": "/kref2400/b.git/static/js/2.24110b5b.chunk.js",
+    "static/js/2.24110b5b.chunk.js.map": "/kref2400/b.git/static/js/2.24110b5b.chunk.js.map",
+    "static/js/3.6f00acde.chunk.js": "/kref2400/b.git/static/js/3.6f00acde.chunk.js",
+    "static/js/3.6f00acde.chunk.js.map": "/kref2400/b.git/static/js/3.6f00acde.chunk.js.map",
+    "index.html": "/kref2400/b.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kref2400/b.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.24110b5b.chunk.js.LICENSE.txt": "/kref2400/b.git/static/js/2.24110b5b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kref2400/b.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d4a2f9.js",
+    "static/js/2.24110b5b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d1a3ebfb.chunk.js"
+  ]
+}
